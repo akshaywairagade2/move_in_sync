@@ -1,0 +1,3 @@
+To run the repo
+- npm install
+- node index.js
